@@ -1,2 +1,2 @@
 # NYCU2021-Cryptography
-Name of professor: wgtzen
+Name of professor: wgtzeng
